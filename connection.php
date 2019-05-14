@@ -1,6 +1,6 @@
 <?php 
 	
-	$conn = mysqli_connect("localhost","root","","myblog");
+	$conn = mysqli_connect("sql200.epizy.com","epiz_23904747","2VIrw1aBfyxO","epiz_23904747_sisil");
 
 	function query ($query){
 		global $conn;
